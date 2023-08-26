@@ -17,7 +17,7 @@ In this repository, you will find:
 
 ## Demo
 
-https://github.com/albertbayazidi/IR-Interpolation/assets/102351774/fa387883-5944-4693-82db-40be29cbb2d4
+https://github.com/albertbayazidi/IR-Interpolation/assets/102351774/d3559252-e7f2-40f6-a795-8a5bb3ff11f0
 
 
 ## Future Steps
